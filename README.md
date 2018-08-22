@@ -1,2 +1,2 @@
 # platzi-git
-curso de platzi para manejo de github
+curso de platzi para manejo de github Agregamos cambio
